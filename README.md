@@ -9,8 +9,10 @@
   - data:application/json;base64,INSERT_YOUR_BASE64_ENCODED_JSON_HERE
 
 ## Deploy and test
-https://testnets.opensea.io/assets/goerli/0xA0dC0b79496C235fea4D13920331f4c9AbAf18A0/0
-https://testnet.rarible.com/token/0x279Ef3ea59DdbE2030c6796A290aECEbd5D100a8:0 
+Opensea:
+https://testnets.opensea.io/assets/goerli/INSERT_CONTRACT_ADDRESS_HERE/INSERT_TOKEN_ID_HERE
+Rarible:
+https://testnet.rarible.com/token/INSERT_CONTRACT_ADDRESS_HERE:INSERT_TOKEN_ID_HERE 
 
+https://testnets.opensea.io/assets/goerli/0x1105bD4663158700218486b0c639c85190Ac9C7c/0
 
-https://testnets.opensea.io/assets/goerli/0x7f4F9063C9DAeDA1ED358751d1d755c3e08A6ca1/0
